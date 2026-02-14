@@ -18,4 +18,11 @@ To search for traces in blockchains:
 5. https://metasleuth.io/ - good visualization, ability to highlight individual addresses by color. Disadvantage: may not show all transactions for an address, and for a more detailed picture, you may need to add transactions manually.
 
 WEB:
+1. https://www.whois.com/ - information about the website.
+2. https://web.archive.org/ - web page archive.
+3. https://ipinfo.io/ - information about the IP address.
+
+Telegram:
+@osint_maigret_bot - OSINT username checker. 
+
 
