@@ -5,10 +5,17 @@ But since I am still very far from my goal, I will try to become a detective. Th
 In this repository, I will post a list of tools that are very important for detectives and help them in their investigations. As I find new tools, I will expand this list.
 
 To protect themselves, investigators need to maintain their confidentiality:
-1. Use a fictitious name. Never reveal your real name to anyone.
+1. Use a fictitious name. Never reveal your real name to anyone. Never show your face completely uncovered.
 2. Always use a proxy or VPN when performing work or making work contacts. It is preferable to choose an IP address from the same country that is different from your original one. This is so that if someone searches for you, they will think that you are located in the country you have substituted, given the number of matches.
 3. Do not be the first to write personal messages in Telegram, as during the initial contact, the mobile version of Telegram shows the country of registration of the phone number of the user who first wrote a message to a non-contact. 
 4. Confuse the rewards and fees you receive in the same way that hackers do, so that it is not even possible to trace your deposit addresses on centralized exchanges.
 
+To search for traces in blockchains:
+1. https://intel.arkm.com/ - perhaps the best way to track down an attacker in a multi-chain. Disadvantage: visualization can look very cumbersome.
+2. https://sso.slowmist.com/ is a very good way to search for traces and visualize them. Disadvantage: you can only track individual tokens in separate networks (no multi-chain function).
+3. https://bloxy.info/ - Detailed visualization, most frequently used contracts, ability to trace several levels ahead. Disadvantage: only for the main Ethereum network. 
+4. https://explorer.bitquery.io/ - an advanced counterpart to bloxy, but works for many networks and blockchains.
+5. https://metasleuth.io/ - good visualization, ability to highlight individual addresses by color. Disadvantage: may not show all transactions for an address, and for a more detailed picture, you may need to add transactions manually.
 
+WEB:
 
